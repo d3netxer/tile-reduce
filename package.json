@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/mapbox/tile-reduce",
   "dependencies": {
+    "@mapbox/geojson-normalize": "0.0.1",
     "@turf/bbox-polygon": "^3.7.3",
+    "@turf/turf": "^5.0.4",
     "binary-split": "^1.0.3",
     "function-rate-limit": "^1.1.0",
     "mbtiles": "^0.9.0",

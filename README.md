@@ -1,3 +1,11 @@
+# What is different in this fork?
+
+- Added another example in the example directory called count_buildings. This example counts buildings
+- In the /test/fixtures/ directory added MapBox QA Tiles for Vanuatu. This dataset is used in the examples.
+
+---
+
+
 # TileReduce
 
 [![Build Status](https://travis-ci.org/mapbox/tile-reduce.svg)](https://travis-ci.org/mapbox/tile-reduce)
